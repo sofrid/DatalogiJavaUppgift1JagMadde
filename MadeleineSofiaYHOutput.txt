@@ -1,0 +1,84 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\lib\idea_rt.jar=50751:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.3\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\87sofrid\IdeaProjects\InlamningarDatalogi\out\production\InlamningarDatalogi InlamningDatalogiSofiaMadeleine
+Välkommen till programmet.Välj 0 för manuell input, 1 för slumpmässig, 2 för att stänga ner programmet: 
+0
+Main: 
+string
+true
+sTring
+sing
+false
+sing
+A:
+sTting
+sing
+B: 
+sTting
+true
+sTing
+sing
+false
+sing
+C: 
+true
+sTing
+false
+sing
+D:
+E
+Skriv in input: 
+a
+input is a char
+Skriv in input: 
+b
+input is a char
+Skriv in input: 
+c
+input is a char
+Skriv in ny input: 
+d
+input is a char
+Vilken array plats vill du det nya värdet ska ersätta?
+Skriv in 0, 1 eller 2
+0
+[d, b, c]
+F: 
+dbc
+G: 
+[dbc]
+Skriv in input: 
+
+Input är tom, avslutar.
+Välj 0 för manuell input, 1 för slumpmässig, 2 för att stänga ner programmet: 
+1
+Main: 
+sTingg
+true
+sTing
+sing
+false
+sing
+A:
+sTingg
+sing
+B: 
+sTingg
+true
+sTing
+sing
+false
+sing
+C: 
+true
+sTing
+false
+sing
+D: 
+Input number of index in Array: 
+150
+taxsnuycisrukupwuqrshavargzhfgktpsotfjkmvxkruqprpfpexiiwriwdqyejgzcbpcpllvoxdiughzxksslgrvllxwnqodunhjosnsmjgrrpiclnbqvgxcnagaailsidejupkzqsalvtwhlago
+Välj 0 för manuell input, 1 för slumpmässig, 2 för att stänga ner programmet: 
+2
+Programmet sängs ner...
+
+Process finished with exit code 0
+
